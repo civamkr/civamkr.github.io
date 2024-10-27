@@ -2,7 +2,7 @@
 
 ## Welcome!
 
-<img width="300" alt="Shivam Kumar" src="/assets/me_github.jpg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
+<img width="399" alt="Shivam Kumar" src="/assets/me_github.jpg" style="display: block; margin: 20px 0;">
 
 
 
