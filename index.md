@@ -2,9 +2,7 @@
 
 ## Welcome!
 
-<img width="300" alt="Shivam Kumar" src="/assets/me_github.jpg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
-
-<div style="clear: both;">
+<img width="399" alt="Shivam Kumar" src="/assets/me_github.jpg" style="display: block; margin: 20px 0;">
 
 I am currently a fifth-year Ph.D. student in the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) at the [University of Notre Dame](https://nd.edu). I am fortunate to work under the mentorship of [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
 
