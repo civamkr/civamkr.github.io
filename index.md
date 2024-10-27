@@ -2,11 +2,11 @@
 
 ## Welcome!
 
-I am a fifth-year Ph.D. student in the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) , [University of Notre Dame](https://acms.nd.edu). I work under the supervision of [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
+I am currently a fifth-year Ph.D. student in the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) at the [University of Notre Dame](https://nd.edu). I am fortunate to work under the mentorship of [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
 
-Previously, I obtained my Integrated M.Sc. in Mathematics from Visva Bharati Santiniketan, India, where I was advised by [Prof. Swapan Kumar Pandit](https://www.visvabharati.ac.in/SwapanKumarPandit.html). I completed my master's dissertation at [Chennai Mathematical Institute](https://www.cmi.ac.in/) under the guidance of [Prof. Issan Patri](https://www.isid.ac.in/~statmath/index.php?module=Faculty).
+Before starting my Ph.D., I completed a five-year Integrated M.Sc. in Mathematics at [Visva Bharati](https://visvabharati.ac.in/index.html), where I was advised by [Prof. Swapan Kumar Pandit](https://www.visvabharati.ac.in/SwapanKumarPandit.html). During my final year, I had the opportunity to be a visiting student at the [Chennai Mathematical Institute](https://www.cmi.ac.in/), where I conducted my master’s dissertation research under [Prof. Issan Patri](https://www.isid.ac.in/~statmath/index.php?module=Faculty).
 
-A copy of my [CV](https://github.com/civamkr/website/blob/main/CV_Shivam_Kumar_OCT_2024.pdf) can be found here.
+For more on my academic background and research, please see my [CV here](https://github.com/civamkr/website/blob/main/CV_Shivam_Kumar_OCT_2024.pdf).
 
 I was born and raised in Bihar, India.
 
