@@ -4,6 +4,7 @@
 
 <img width="300" alt="Shivam Kumar" src="/assets/me_github.jpg" style="float: left; margin-right: 20px; margin-bottom: 10px;">
 
+
 I am currently a fifth-year Ph.D. student in the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) at the [University of Notre Dame](https://nd.edu). I am fortunate to work under the mentorship of [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
 
 Before starting my Ph.D., I completed a five-year Integrated M.Sc. in Mathematics at [Visva Bharati](https://visvabharati.ac.in/index.html), where I was advised by [Prof. Swapan Kumar Pandit](https://www.visvabharati.ac.in/SwapanKumarPandit.html). During my final year, I had the opportunity to be a visiting student at the [Chennai Mathematical Institute](https://www.cmi.ac.in/), where I conducted my master’s dissertation research under [Prof. Issan Patri](https://www.isid.ac.in/~statmath/index.php?module=Faculty).
