@@ -21,6 +21,7 @@ My  research interests include:
 - Bayes methodology
 
 
+
 ### Preprints
 
 **Shivam Kumar**, Haotian Xu, Haeran Cho, Daren Wang. Estimation and Inference for Change Points in Functional Regression Time Series. [PDF](https://arxiv.org/pdf/2405.05459.pdf) **Under Review.**
