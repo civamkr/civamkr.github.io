@@ -10,7 +10,7 @@ I am currently a fifth-year Ph.D. student in the [Department of Applied and Comp
 
 Before starting my Ph.D., I completed a five-year Integrated M.Sc. in Mathematics at [Visva Bharati](https://visvabharati.ac.in/index.html), where I was advised by [Prof. Swapan Kumar Pandit](https://www.visvabharati.ac.in/SwapanKumarPandit.html). During my final year, I had the opportunity to be a visiting student at the [Chennai Mathematical Institute](https://www.cmi.ac.in/), where I conducted my master’s dissertation research under [Prof. Issan Patri](https://www.isid.ac.in/~statmath/index.php?module=Faculty).
 
-For more on my academic background and research, please see my [CV here](https://github.com/civamkr/website/blob/main/CV_Shivam_Kumar_OCT_2024.pdf).
+For more on my academic background, research, and teaching, please see my [CV here](https://github.com/civamkr/website/blob/main/CV_Shivam_Kumar_OCT_2024.pdf).
 
 I was born and raised in Bihar, India.
 
