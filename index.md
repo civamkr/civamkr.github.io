@@ -27,9 +27,9 @@ My  research interests include:
 
 ## Preprints
 
-**Shivam Kumar**, Haotian Xu, Haeran Cho, Daren Wang. Estimation and Inference for Change Points in Functional Regression Time Series. [PDF](https://arxiv.org/pdf/2405.05459.pdf) **Under Review.**
+**Shivam Kumar**, Haotian Xu, Haeran Cho, Daren Wang. Estimation and Inference for Change Points in Functional Regression Time Series. [arxiv](https://arxiv.org/abs/2405.05459.pdf) **Under Review.**
 
-**Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [PDF](https://arxiv.org/pdf/2410.02025.pdf) **Under Review.**
+**Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [arxiv](https://arxiv.org/abs/2410.02025.pdf) **Under Review.**
 
 **Shivam Kumar**, Yixin Wang, Lizhen Lin. Statistical Foundation of Matching Flow Based Generative Models. **In Progress. 2024+.**
 
