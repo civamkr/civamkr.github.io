@@ -6,11 +6,11 @@
 
 
 
-I am currently a fifth-year Ph.D. student in the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) at the [University of Notre Dame](https://nd.edu). I am fortunate to work under the mentorship of [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
+I am a Postdoctoral researcher at the Booth School of Business, University of Chicago, working with [Prof. Nabarun Deb](https://nabarund.github.io/). I earned my Ph.D. in Statistics from the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) at the [University of Notre Dame](https://nd.edu), advised by [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
 
-Before starting my Ph.D., I completed a five-year Integrated M.Sc. in Mathematics at [Visva Bharati](https://visvabharati.ac.in/index.html), where I was advised by [Prof. Swapan Kumar Pandit](https://www.visvabharati.ac.in/SwapanKumarPandit.html). During my final year, I had the opportunity to be a visiting student at the [Chennai Mathematical Institute](https://www.cmi.ac.in/), where I conducted my master’s dissertation research under [Prof. Issan Patri](https://www.isid.ac.in/~statmath/index.php?module=Faculty).
+Before my Ph.D., I completed a Five-year Integrated M.Sc. in Mathematics at [Visva Bharati](https://visvabharati.ac.in/index.html), advised by [Prof. Swapan Kumar Pandit](https://www.visvabharati.ac.in/SwapanKumarPandit.html). During my final year, I spent a year as a visiting student at the [Chennai Mathematical Institute](https://www.cmi.ac.in/), where I completed my master’s dissertation under [Prof. Issan Patri](https://www.isid.ac.in/~statmath/index.php?module=Faculty).
 
-For more on my academic background, research, and teaching, please see my [CV here](https://github.com/civamkr/website/blob/main/CV_Shivam_Kumar_OCT_2024.pdf).
+For details on my research, teaching, and publications, see my [CV (pdf)](https://github.com/civamkr/website/blob/main/CV_Shivam_Kumar_OCT_2024.pdf).
 
 I was born and raised in Bihar, India.
 
@@ -22,17 +22,21 @@ My  research interests include:
 - Statistical foundations of deep generative models
 - Nonparametric statistics in high-dimensions
 - Change point detection and inference
-- Bayes methodology
+- Optimal Transport
+- Tensor estimation
+<!--- Bayes methodology-->
 
 
-## Preprints
+## Preprints and Publications
+
+**Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [arxiv](https://arxiv.org/abs/2410.02025.pdf), *ICML (2025)*.
+
+**Shivam Kumar**, Haotian Xu, Carlos-Misael Madrid-Padilla, Yuehaw Khoo, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review.**
 
 **Shivam Kumar**, Haotian Xu, Haeran Cho, Daren Wang. Estimation and Inference for Change Points in Functional Regression Time Series. [arxiv](https://arxiv.org/abs/2405.05459.pdf) **Under Review.**
 
-**Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [arxiv](https://arxiv.org/abs/2410.02025.pdf) **Under Review.**
+**Shivam Kumar**, Yixin Wang, Lizhen Lin. Statistical Foundation of Matching Flow Based Generative Models. **In Progress. 2025+.**
 
-**Shivam Kumar**, Yixin Wang, Lizhen Lin. Statistical Foundation of Matching Flow Based Generative Models. **In Progress. 2024+.**
+<!--**Shivam Kumar**, Shitao Fan, Lizhen Lin. Adaptive Online Variational Bayes. **In Progress. 2024+.**
 
-**Shivam Kumar**, Shitao Fan, Lizhen Lin. Adaptive Online Variational Bayes. **In Progress. 2024+.**
-
-**Shivam Kumar**, Carlos-Misael Madrid-Padilla. Additive Temporal-spatial Model via Trend Filtering. **In Progress. 2024+.**
+**Shivam Kumar**, Carlos-Misael Madrid-Padilla. Additive Temporal-spatial Model via Trend Filtering. **In Progress. 2024+.**-->
