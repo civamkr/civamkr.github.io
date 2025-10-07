@@ -6,7 +6,7 @@
 
 
 
-I am a Postdoctoral researcher at the Booth School of Business, University of Chicago, working with [Prof. Nabarun Deb](https://nabarund.github.io/). I earned my Ph.D. in Statistics from the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) at the [University of Notre Dame](https://nd.edu), advised by [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
+I am a Postdoctoral researcher in [Econometrics and Statistics](https://www.chicagobooth.edu/faculty/academic-areas/econometrics-and-statistics) at the [Booth School of Business](https://www.chicagobooth.edu/), [University of Chicago](https://www.uchicago.edu/), working with [Prof. Nabarun Deb](https://nabarund.github.io/). I earned my Ph.D. in Statistics from the [Department of Applied and Computational Mathematics and Statistics](https://acms.nd.edu) at the [University of Notre Dame](https://nd.edu), advised by [Prof. Lizhen Lin](https://blog.umd.edu/lizhen01/) and [Prof. Daren Wang](https://darenwang.github.io/website).
 
 Before my Ph.D., I completed a Five-year Integrated M.Sc. in Mathematics at [Visva Bharati](https://visvabharati.ac.in/index.html), advised by [Prof. Swapan Kumar Pandit](https://www.visvabharati.ac.in/SwapanKumarPandit.html). During my final year, I spent a year as a visiting student at the [Chennai Mathematical Institute](https://www.cmi.ac.in/), where I completed my master’s dissertation under [Prof. Issan Patri](https://www.isid.ac.in/~statmath/index.php?module=Faculty).
 
