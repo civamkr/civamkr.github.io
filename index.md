@@ -27,7 +27,8 @@ My  research interests include:
 <!--- Bayes methodology-->
 
 
-## Preprints and Publications
+
+## Publications
 
 **Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [arxiv](https://arxiv.org/abs/2410.02025.pdf), *ICML (2025)*.
 
