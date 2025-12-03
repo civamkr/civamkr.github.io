@@ -30,13 +30,13 @@ My  research interests include:
 
 ## Publications
 
-**Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [arxiv](https://arxiv.org/abs/2410.02025.pdf), *ICML (2025)*.
+**Shivam Kumar**, Haotian Xu, Haeran Cho, Daren Wang. Estimation and Inference for Change Points in Functional Regression Time Series. [arxiv](https://arxiv.org/abs/2405.05459.pdf) **Statistica Sinica. (2025)**
+
+**Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [arxiv](https://arxiv.org/abs/2410.02025.pdf), **ICML. (2025).**
 
 ## Working Papers
 
 **Shivam Kumar**, Haotian Xu, Carlos-Misael Madrid-Padilla, Yuehaw Khoo, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review. (2025)**
-
-**Shivam Kumar**, Haotian Xu, Haeran Cho, Daren Wang. Estimation and Inference for Change Points in Functional Regression Time Series. [arxiv](https://arxiv.org/abs/2405.05459.pdf) **Under Review. (2024)**
 
 ## Work in Progress
 
