@@ -36,11 +36,13 @@ My  research interests include:
 
 ## Working Papers
 
-**Shivam Kumar**, Haotian Xu, Carlos-Misael Madrid-Padilla, Yuehaw Khoo, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review. (2025)**
+**Shivam Kumar**, Haotian Xu, Carlos-Misael Madrid-Padilla, Yuehaw Khoo, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review. (2026)**
 
-## Work in Progress
+**Shivam Kumar**, Yixin Wang, Lizhen Lin. Flow Matching is Adaptive to Manifold Structures. **Under Review. (2026)**
 
-**Shivam Kumar**, Yixin Wang, Lizhen Lin. Statistical Foundation of Matching Flow Based Generative Models. **In Progress. (2025+)**
+
+
+
 
 <!--**Shivam Kumar**, Shitao Fan, Lizhen Lin. Adaptive Online Variational Bayes. **In Progress. 2024+.**
 
