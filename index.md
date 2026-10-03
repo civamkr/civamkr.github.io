@@ -40,7 +40,7 @@ My  research interests include:
 
 **Shivam Kumar**, Yixin Wang, Lizhen Lin. Flow Matching is Adaptive to Manifold Structures. **Under Review. (2026)**
 
-**Shivam Kumar**, Nabarun Deb. Sample Complexity Bounds for Categorical Markov Random Fields via Discrete Diffusions. **Under Review. (2026)**
+**Shivam Kumar**, Nabarun Deb. Sample Complexity Bounds for Categorical Markov Random Fields via Discrete Diffusions. [arxiv](https://arxiv.org/abs/2610.02128) **Under Review. (2026)**
 
 
 
