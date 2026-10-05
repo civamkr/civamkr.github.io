@@ -28,19 +28,20 @@ My  research interests include:
 
 
 
+## Working Papers
+
+**Shivam Kumar**, Nabarun Deb. Sample Complexity Bounds for Categorical Markov Random Fields via Discrete Diffusions. [arxiv](https://arxiv.org/abs/2610.02128) **Under Review. (2026)**
+
+**Shivam Kumar**, Yixin Wang, Lizhen Lin. Flow Matching is Adaptive to Manifold Structures. [arxiv](https://arxiv.org/abs/2602.22486) **Under Review. (2026)**
+
+**Shivam Kumar**, Haotian Xu, Carlos-Misael Madrid-Padilla, Yuehaw Khoo, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review. (2026)**
+
+
 ## Publications
 
 **Shivam Kumar**, Haotian Xu, Haeran Cho, Daren Wang. Estimation and Inference for Change Points in Functional Regression Time Series. [arxiv](https://arxiv.org/abs/2405.05459.pdf) **Statistica Sinica. (2025)**
 
 **Shivam Kumar**, Yun Yang, Lizhen Lin. A Likelihood Based Approach to Distribution Regression Using Conditional Deep Generative Models. [arxiv](https://arxiv.org/abs/2410.02025.pdf), **ICML. (2025).**
-
-## Working Papers
-
-**Shivam Kumar**, Haotian Xu, Carlos-Misael Madrid-Padilla, Yuehaw Khoo, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review. (2026)**
-
-**Shivam Kumar**, Yixin Wang, Lizhen Lin. Flow Matching is Adaptive to Manifold Structures. **Under Review. (2026)**
-
-**Shivam Kumar**, Nabarun Deb. Sample Complexity Bounds for Categorical Markov Random Fields via Discrete Diffusions. [arxiv](https://arxiv.org/abs/2610.02128) **Under Review. (2026)**
 
 
 
