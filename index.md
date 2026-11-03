@@ -34,7 +34,9 @@ My  research interests include:
 
 **Shivam Kumar**, Yixin Wang, Lizhen Lin. Flow Matching is Adaptive to Manifold Structures. [arxiv](https://arxiv.org/abs/2602.22486) **Under Review. (2026)**
 
-**Shivam Kumar**, Haotian Xu, Carlos-Misael Madrid-Padilla, Yuehaw Khoo, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review. (2026)**
+Chenghao Xu, Haotian Xu, **Shivam Kumar**, Daren Wang. Optimal Neural Estimation for High-Dimensional Nonparametric Regression under Multisource Covariate Shift. [arxiv](https://arxiv.org/abs/2610.40331) **(2026)**
+
+**Shivam Kumar**, Xiaokai Luo, Haotian Xu, Carlos-Misael Madrid-Padilla, Oscar-Hernan Madrid-Padilla, Daren Wang. Bias-variance Tradeoff in Tensor Estimation. [arxiv](https://arxiv.org/abs/2509.17382), **Under Review. (2026)**
 
 
 ## Publications
